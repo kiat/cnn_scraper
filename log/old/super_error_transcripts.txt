@@ -1,0 +1,200 @@
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/mn.12.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/mn.11.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/mn.10.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/mn.09.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/mn.08.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/mn.07.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/mn.06.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/mn.05.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/mn.04.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/mn.03.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/mn.02.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/mn.01.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/ee.11.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/ee.10.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/ee.09.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/ee.08.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/ee.07.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/ee.05.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/ee.04.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/ee.03.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/ee.02.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/bn.02.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/bn.01.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/aotc.11.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/aotc.10.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/aotc.09.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/aotc.08.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/aotc.07.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/aotc.06.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/aotc.05.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/aotc.04.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/aotc.03.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/aotc.02.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/aotc.01.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/i_wn.06.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/i_wn.05.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/i_wn.04.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/i_wn.03.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/i_wn.02.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/i_wn.01.html	invalid date
+2000.03.15	http://www.cnn.com/TRANSCRIPTS/0003/15/nr.00.html	invalid date
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.18.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.17.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.16.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.15.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.14.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.13.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.12.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.11.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.10.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.09.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.08.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.07.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.06.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.05.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.04.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.03.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.02.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/st.01.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/mn.07.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/mn.06.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/mn.05.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/mn.04.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/mn.03.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/mn.02.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/mn.01.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/wbt.00.html	404 Not Found
+2000.03.18	http://www.cnn.com/TRANSCRIPTS/0003/18/dl.00.html	404 Not Found
+2000.03.21	http://www.cnn.com/TRANSCRIPTS/0003/21/se.00.html	404 Not Found
+2000.03.22	http://www.cnn.com/TRANSCRIPTS/0003/22/se.02.html	404 Not Found
+2000.03.22	http://www.cnn.com/TRANSCRIPTS/0003/22/se.00.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.20.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.19.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.18.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.17.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.16.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.15.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.14.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.13.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.12.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.11.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.10.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.09.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.08.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.07.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.06.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.05.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.04.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.03.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.02.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/st.01.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.13.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.12.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.11.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.10.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.09.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.08.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.07.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.06.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.05.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.04.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.03.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.02.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/mn.01.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/wbt.00.html	404 Not Found
+2000.03.25	http://www.cnn.com/TRANSCRIPTS/0003/25/dl.00.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.16.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.15.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.14.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.13.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.12.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.11.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.10.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.09.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.08.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.07.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.06.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.05.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.04.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.03.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.02.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/st.01.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/mn.08.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/mn.07.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/mn.06.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/mn.05.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/mn.04.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/mn.03.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/mn.02.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/mn.01.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/wbt.00.html	404 Not Found
+2000.04.01	http://www.cnn.com/TRANSCRIPTS/0004/01/dl.00.html	404 Not Found
+2000.04.04	http://www.cnn.com/TRANSCRIPTS/0004/04/st.00.html	404 Not Found
+2015.03.02	http://transcripts.cnn.com/TRANSCRIPTS/1503/02/.01.html	404 Not Found
+2015.03.02	http://transcripts.cnn.com/TRANSCRIPTS/1503/02/.02.html	404 Not Found
+2015.03.02	http://transcripts.cnn.com/TRANoversial 	404 Not Found
+2015.03.03	http://transcripts.cnn.com/TRANSCRIPTS/1503/03/.01.html	404 Not Found
+2015.03.03	http://transcripts.cnn.com/TRANSCRIPTS/1503/03/.02.html	404 Not Found
+2015.03.04	http://transcripts.cnn.com/TRANSCRIPTS/1503/04/.01.html	404 Not Found
+2015.03.04	http://transcripts.cnn.com/TRANSCRIPTS/1503/04/.02.html	404 Not Found
+2015.03.05	http://transcripts.cnn.com/TRANSCRIPTS/1503/05/.02.html	404 Not Found
+2015.03.05	http://transcripts.cnn.com/TRANSCRIPTS/1503/05/.01.html	404 Not Found
+2015.03.06	http://transcripts.cnn.com/TRANSCRIPTS/1503/06/.01.html	404 Not Found
+2015.03.06	http://transcripts.cnn.com/TRANSCRIPTS/1503/06/.02.html	404 Not Found
+2015.03.09	http://transcripts.cnn.com/TRANSCRIPTS/1503/09/.01.html	404 Not Found
+2015.03.09	http://transcripts.cnn.com/TRANSCRIPTS/1503/09/.02.html	404 Not Found
+2015.03.10	http://transcripts.cnn.com/TRANSCRIPTS/1503/10/.01.html	404 Not Found
+2015.03.10	http://transcripts.cnn.com/TRANSCRIPTS/1503/10/.02.html	404 Not Found
+2015.03.11	http://transcripts.cnn.com/TRANSCRIPTS/1503/11/.01.html	404 Not Found
+2015.03.11	http://transcripts.cnn.com/TRANSCRIPTS/1503/11/.01.html	404 Not Found
+2015.03.11	http://transcripts.cnn.com/TRANSCRIPTS/1503/11/.02.html	404 Not Found
+2015.03.12	http://transcripts.cnn.com/TRANSCRIPTS/1503/12/.01.html	404 Not Found
+2015.03.12	http://transcripts.cnn.com/TRANSCRIPTS/1503/12/.02.html	404 Not Found
+2015.03.13	http://transcripts.cnn.com/TRANSCRIPTS/1503/13/.01.html	404 Not Found
+2015.03.13	http://transcripts.cnn.com/TRANSCRIPTS/1503/13/.02.html	404 Not Found
+2015.03.16	http://transcripts.cnn.com/TRANSCRIPTS/1503/16/.01.html	404 Not Found
+2015.03.16	http://transcripts.cnn.com/TRANSCRIPTS/1503/16/.02.html	404 Not Found
+2015.03.17	http://transcripts.cnn.com/TRANSCRIPTS/1503/17/.01.html	404 Not Found
+2015.03.17	http://transcripts.cnn.com/TRANSCRIPTS/1503/17/.02.html	404 Not Found
+2015.03.25	http://transcripts.cnn.com/TRANSCRIPTS/1503/25/.02.html	404 Not Found
+2015.03.25	http://transcripts.cnn.com/TRANSCRIPTS/1503/25/.01.html	404 Not Found
+2015.03.27	http://transcripts.cnn.com/TRANSCRIPTS/1503/27/sn.01.html	invalid date
+2015.03.30	http://transcripts.cnn.com/TRANSCRIPTS/1503/30/.01.html	404 Not Found
+2015.03.31	http://transcripts.cnn.com/TRANSCRIPTS/1503/31/.01.html	404 Not Found
+2015.04.20	http://transcripts.cnn.com/TRANSCRIPTS/1504/20/.01.html	404 Not Found
+2015.04.20	http://transcripts.cnn.com/TRANSCRIPTS/1504/20/.02.html	404 Not Found
+2015.04.21	http://transcripts.cnn.com/TRANSCRIPTS/1504/21/.02.html	404 Not Found
+2015.04.21	http://transcripts.cnn.com/TRANSCRIPTS/1504/21/.01.html	404 Not Found
+2015.05.12	http://transcripts.cnn.com/TRANSCRIPTS/1505/12/.02.html	404 Not Found
+2015.05.12	http://transcripts.cnn.com/TRANSCRIPTS/1505/12/.01.html	404 Not Found
+2015.05.13	http://transcripts.cnn.com/TRANSCRIPTS/1505/13/.01.html	404 Not Found
+2015.05.13	http://transcripts.cnn.com/TRANSCRIPTS/1505/13/.02.html	404 Not Found
+2015.05.14	http://transcripts.cnn.com/TRANSCRIPTS/1505/14/.01.html	404 Not Found
+2015.05.14	http://transcripts.cnn.com/TRANSCRIPTS/1505/14/.02.html	404 Not Found
+2015.05.15	http://transcripts.cnn.com/TRANSCRIPTS/1505/15/.01.html	404 Not Found
+2015.05.15	http://transcripts.cnn.com/TRANSCRIPTS/1505/15/.02.html	404 Not Found
+2015.05.18	http://transcripts.cnn.com/TRANSCRIPTS/1505/18/.01.html	404 Not Found
+2015.05.18	http://transcripts.cnn.com/TRANSCRIPTS/1505/18/.02.html	404 Not Found
+2015.05.19	http://transcripts.cnn.com/TRANSCRIPTS/1505/19/.01.html	404 Not Found
+2015.05.19	http://transcripts.cnn.com/TRANSCRIPTS/1505/19/.02.html	404 Not Found
+2015.05.20	http://transcripts.cnn.com/TRANSCRIPTS/1505/20/.01.html	404 Not Found
+2015.05.20	http://transcripts.cnn.com/TRANSCRIPTS/1505/20/.02.html	404 Not Found
+2015.05.21	http://transcripts.cnn.com/TRANSCRIPTS/1505/21/.01.html	404 Not Found
+2015.05.21	http://transcripts.cnn.com/TRANSCRIPTS/1505/21/.02.html	404 Not Found
+2015.05.22	http://transcripts.cnn.com/TRANSCRIPTS/1505/22/.01.html	404 Not Found
+2015.05.22	http://transcripts.cnn.com/TRANSCRIPTS/1505/22/.02.html	404 Not Found
+2015.05.25	http://transcripts.cnn.com/TRANSCRIPTS/1505/25/.01.html	404 Not Found
+2015.05.25	http://transcripts.cnn.com/TRANSCRIPTS/1505/25/.02.html	404 Not Found
+2015.05.26	http://transcripts.cnn.com/TRANSCRIPTS/1505/26/.01.html	404 Not Found
+2015.05.26	http://transcripts.cnn.com/TRANSCRIPTS/1505/26/.02.html	404 Not Found
+2015.05.26	http://transcripts.cnn.com/TRANSCRIPTS/1505/26/.01.html	404 Not Found
+2015.05.27	http://transcripts.cnn.com/TRANSCRIPTS/1505/27/.01.html	404 Not Found
+2015.05.27	http://transcripts.cnn.com/TRANSCRIPTS/1505/27/.02.html	404 Not Found
+2015.05.27	http://transcripts.cnn.com/TRANSCRIPTS/1505/27/.01.html	404 Not Found
+2015.05.28	http://transcripts.cnn.com/TRANSCRIPTS/1505/28/.01.html	404 Not Found
+2015.05.28	http://transcripts.cnn.com/TRANSCRIPTS/1505/28/.02.html	404 Not Found
+2015.05.29	http://transcripts.cnn.com/TRANSCRIPTS/1505/29/.01.html	404 Not Found
+2015.05.29	http://transcripts.cnn.com/TRANSCRIPTS/1505/29/.02.html	404 Not Found
+2015.06.01	http://transcripts.cnn.com/TRANSCRIPTS/1506/01/.01.html	404 Not Found
+2015.06.01	http://transcripts.cnn.com/TRANSCRIPTS/1506/01/.02.html	404 Not Found
