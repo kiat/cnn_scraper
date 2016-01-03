@@ -1,7 +1,7 @@
 ---
 baseurl: http://transcripts.cnn.com
-start_date: 2015-08-02
-end_date: 2015-08-19
+start_date: 2015-12-20
+end_date: 2015-12-31
 sleep_secs_between_transcripts: 1.5
 output_file_prefix: super_
 format_overides:
